@@ -1,3 +1,4 @@
-## copilot is an evil that needs to be erased
+# copilot is an evil that needs to be erased
 
-# status... true✅
+## status... true✅
+### you can now close this window
