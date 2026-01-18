@@ -1,4 +1,4 @@
-# copilot is an evil that needs to be erased
+# hi im soldafon
 
-## status... true✅
-### you can now close this window
+## i do stuff sometimes
+### thats it really
