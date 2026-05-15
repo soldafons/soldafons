@@ -1,3 +1,3 @@
 # hi , im soldafon :-)
-### im currently learning nixos and python
-i will be updating my configs and projects in the future!
+### im currently learning nixos , python and other programming languages
+i will be updating my projects in the future!
