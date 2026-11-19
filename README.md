@@ -1,3 +1,3 @@
 # hi , im soldafon :-)
-### im currently learning nixos system configuration, python and rust
+### im currently learning nixos system configuration and rust
 i will be updating my repositries in the future!
